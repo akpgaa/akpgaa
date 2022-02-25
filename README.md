@@ -10,7 +10,7 @@
 - 📄 Know about my experiences [https://akpgaa.netlify.app/](https://akpgaa.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> **akpgaa@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
